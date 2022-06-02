@@ -14,3 +14,7 @@ function power(num1,num2) {
 }
 
 power(3,3)
+
+function subtract(num1,num2) {
+    return num1 - num2
+}
